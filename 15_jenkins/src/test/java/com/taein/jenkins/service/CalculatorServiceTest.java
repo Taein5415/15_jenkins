@@ -1,6 +1,7 @@
 package com.taein.jenkins.service;
 
-import com.ohgiraffers.bootproject.dto.CalculatorDTO;
+
+import com.taein.jenkins.dto.CalculatorDTO;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

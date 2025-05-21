@@ -1,7 +1,8 @@
 package com.taein.jenkins.controller;
 
-import com.ohgiraffers.bootproject.dto.CalculatorDTO;
-import com.ohgiraffers.bootproject.service.CalculatorService;
+
+import com.taein.jenkins.dto.CalculatorDTO;
+import com.taein.jenkins.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

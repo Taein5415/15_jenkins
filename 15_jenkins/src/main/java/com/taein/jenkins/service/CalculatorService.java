@@ -1,6 +1,6 @@
 package com.taein.jenkins.service;
 
-import com.ohgiraffers.bootproject.dto.CalculatorDTO;
+import com.taein.jenkins.dto.CalculatorDTO;
 import org.springframework.stereotype.Service;
 
 @Service
